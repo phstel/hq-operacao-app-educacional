@@ -9,22 +9,27 @@ Integrantes:
 - Izabelly Ramos
 - Pedro Denadai
 
-## Tema, gênero e formato
-Ficção científica e aventura, com foco em colaboração, desenvolvimento ágil e uso de IA na criação de soluções educacionais.
+## Organização do projeto
+- Product Owner: Gisely Costa
+- Scrum Master: Byron Lins
+- Developers: Byron Lins, Gisely Costa, Izabelly Ramos e Pedro Denadai.
+
+## Tema 
+Colaboração, desenvolvimento ágil e uso de IA na criação de soluções educacionais.
+
+## Gênero
+Ficção científica e aventura. 
+
+## Formato
 HQ digital planejada com 10 páginas de história, com 1 quadrinho por página.
+
+## Objetivo
+Produzir uma HQ digital completa, com narrativa coerente, personagens visualmente consistentes e documentação do uso de IA, baseada no roteiro de 10 quadrinhos fornecido.
 
 ## Sinopse
 Uma equipe de estudantes recebe o desafio de idealizar um aplicativo educacional capaz de aumentar o interesse dos colegas pelos estudos. Durante o planejamento, os alunos organizam as funcionalidades em um Product Backlog e recorrem a uma inteligência artificial generativa para apoiar a criação da solução. Entretanto, a ferramenta abre um portal que transporta a equipe para uma dimensão digital, onde tarefas, componentes do aplicativo e etapas do trabalho ganham formas físicas. Para avançar, os estudantes precisam colaborar e organizar suas atividades em um quadro Kanban.
 
 Dentro desse universo, a equipe enfrenta um monstro formado por erros de código que ameaça destruir o projeto. Os estudantes combinam suas contribuições, revisam as alterações e utilizam o GitHub para integrar uma correção, superando o obstáculo. Depois de testar a solução e refletir sobre como melhorar a colaboração, concluem o aplicativo e retornam à sala de aula. A história termina com a apresentação da ferramenta aos colegas e ao professor, mostrando como organização, trabalho em equipe e uso responsável da tecnologia podem transformar uma ideia em uma solução útil.
-
-## Objetivo
-Produzir uma HQ digital completa, com narrativa coerente, personagens visualmente consistentes e documentação do uso de IA, baseada no roteiro de 10 quadrinhos fornecido.
-
-## Organização do projeto
-- Product Owner: Gisely Costa
-- Scrum Master: Byron Lins
-- Developers: Byron Lins, Gisely Costa, Izabelly Ramos e Pedro Denadai.
 
 ## Planejamento
 - Product Backlog: https://github.com/users/phstel/projects/1/views/1?layout_template=table
