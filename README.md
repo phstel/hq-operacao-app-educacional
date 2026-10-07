@@ -32,9 +32,9 @@ Uma equipe de estudantes recebe o desafio de idealizar um aplicativo educacional
 Dentro desse universo, a equipe enfrenta um monstro formado por erros de código que ameaça destruir o projeto. Os estudantes combinam suas contribuições, revisam as alterações e utilizam o GitHub para integrar uma correção, superando o obstáculo. Depois de testar a solução e refletir sobre como melhorar a colaboração, concluem o aplicativo e retornam à sala de aula. A história termina com a apresentação da ferramenta aos colegas e ao professor, mostrando como organização, trabalho em equipe e uso responsável da tecnologia podem transformar uma ideia em uma solução útil.
 
 ## Planejamento
-- [Product Backlog] (https://github.com/users/phstel/projects/1/views/1?layout_template=table)
-- [Sprint Backlog] (https://github.com/users/phstel/projects/1/views/2?layout_template=table)
-- [Kanban] (https://github.com/users/phstel/projects/1/views/3?layout_template=table)
+- [Product Backlog](https://github.com/users/phstel/projects/1/views/1?layout_template=table)
+- [Sprint Backlog](https://github.com/users/phstel/projects/1/views/2?layout_template=table)
+- [Kanban](https://github.com/users/phstel/projects/1/views/3?layout_template=table)
 
 ## Sprint 1
 Período: 02/10/26 a 08/10/26.
