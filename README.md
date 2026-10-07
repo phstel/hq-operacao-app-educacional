@@ -1,0 +1,1 @@
+# hq-operacao-app-educacional
