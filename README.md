@@ -27,8 +27,9 @@ Produzir uma HQ digital completa, com narrativa coerente, personagens visualment
 - Developers: Byron Lins, Gisely Costa, Izabelly Ramos e Pedro Denadai.
 
 ## Planejamento
-- Product Backlog:
-- Sprint Backlog:
+- Product Backlog: https://github.com/users/phstel/projects/1/views/1?layout_template=table
+- Sprint Backlog: https://github.com/users/phstel/projects/1/views/2?layout_template=table
+- Kanban: https://github.com/users/phstel/projects/1/views/3?layout_template=table
 
 ## Sprint 1
 Período: 02/10/26 a 08/10/26.
