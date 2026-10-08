@@ -40,3 +40,10 @@ Dentro desse universo, a equipe enfrenta um monstro formado por erros de código
 Período: 02/10/26 a 08/10/26.
 
 Meta: organizar a equipe e estabelecer o planejamento do projeto da HQ “Operação App Educacional: A Jornada da Inovação”, registrando a proposta da história e disponibilizando Product Backlog, Sprint Backlog, Kanban e README para avaliação.
+
+## Sprint 2
+Período: 06/10/26 a 12/10/26
+
+Início efetivo das atividades: 08/10/2026.
+
+Meta: Detalhar os dez quadrinhos da HQ “Operação App Educacional: A Jornada da Inovação” e avaliar, por testes reais de geração com IA, a viabilidade visual e a consistência dos personagens.
