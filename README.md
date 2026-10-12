@@ -34,8 +34,10 @@ Dentro desse universo, a equipe enfrenta um monstro formado por erros de código
 
 ## Planejamento
 - [Product Backlog](https://github.com/users/phstel/projects/1/views/1?layout_template=table)
-- [Sprint Backlog](https://github.com/users/phstel/projects/1/views/2?layout_template=table)
-- [Kanban](https://github.com/users/phstel/projects/1/views/3?layout_template=table)
+- [Sprint 1 Backlog](https://github.com/users/phstel/projects/1/views/2?layout_template=table)
+- [Kanban 1](https://github.com/users/phstel/projects/1/views/3?layout_template=table)
+- [Sprint 2 Backlog](https://github.com/users/phstel/projects/1/views/5?layout_template=table)
+- [Kanban 2](https://github.com/users/phstel/projects/1/views/4?layout_template=table)
 
 ## Sprint 1
 Período: 02/10/26 a 08/10/26.
