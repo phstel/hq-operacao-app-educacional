@@ -13,7 +13,7 @@ Integrantes:
 ## Organização do projeto
 - Product Owner: Gisely Costa
 - Scrum Master: Byron Lins
-- Developers: Byron Lins, Gisely Costa, Izabelly Ramos e Pedro Denadai.
+- Developers: Byron Lins, Gisely Costa, Glendo Viana, Izabelly Ramos e Pedro Denadai.
 
 ## Tema 
 Colaboração, desenvolvimento ágil e uso de IA na criação de soluções educacionais.
