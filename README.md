@@ -6,6 +6,7 @@ Grupo: Código em Quadros
 Integrantes:
 - Byron Lins
 - Gisely Costa
+- Glendo Viana
 - Izabelly Ramos
 - Pedro Denadai
 
@@ -46,4 +47,4 @@ Período: 06/10/26 a 12/10/26
 
 Início efetivo das atividades: 08/10/2026.
 
-Meta: Detalhar os dez quadrinhos da HQ “Operação App Educacional: A Jornada da Inovação” e avaliar, por testes reais de geração com IA, a viabilidade visual e a consistência dos personagens.
+Meta: Disponibilizar roteiro de dez quadrinhos com prompts, produzir as dez imagens e organizar a revisão e as evidências do trabalho no Git
