@@ -50,3 +50,8 @@ Período: 06/10/26 a 12/10/26
 Início efetivo das atividades: 08/10/2026.
 
 Meta: Disponibilizar roteiro de dez quadrinhos com prompts, produzir as dez imagens e organizar a revisão e as evidências do trabalho no Git
+
+Sprint 3
+Período: 13/10/26 a 19/10/26.
+
+Meta: Consolidação, padronização e revisão final da estrutura do repositório, garantindo a consistência do roteiro, dos prompts e das imagens geradas por IA, além de atualizar a documentação de gestão do projeto.
